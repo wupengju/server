@@ -19,8 +19,8 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 # project
-/git_subtree.md
+git_subtree.md
 
 # web
-/web/.gitignore
-/web/REDEME.md
+web/.gitignore
+web/REDEME.md
